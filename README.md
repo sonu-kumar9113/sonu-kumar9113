@@ -1,4 +1,3 @@
-
 ![MasterHead](https://github.com/user-attachments/assets/d89f940e-3fdf-461b-b55a-12085627a611)
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
@@ -9,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/itssonu-kumar](https://www.linkedin.com/in/itssonu-kumar)
 
-- 💬 Ask me about **c++, Phython**
+- 💬 Ask me about **c++, Python**
 
 - 📫 How to reach me **sonukumarsonubth@gmail.com**
 
